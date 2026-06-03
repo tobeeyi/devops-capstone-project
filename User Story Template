@@ -1,0 +1,17 @@
+### User Story
+**As a** [role / type of user]  
+**I want** [some goal or action]  
+**So that** [some reason, benefit, or value]  
+
+---
+
+### Acceptance Criteria
+- [ ] **Given** [initial context or precondition]  
+- [ ] **When** [action or event occurs]  
+- [ ] **Then** [expected outcome or postcondition]  
+
+---
+
+### Technical Notes
+- **Estimate:** [Story points, e.g., 1, 2, 3, 5]
+- **Label:** [e.g., Enhancement, Technical Debt]
